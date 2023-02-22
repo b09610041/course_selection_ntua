@@ -51,9 +51,13 @@ pwd = "ji32k7au4a83"
 步驟三(如有需要)：若該課程有多個時段，且目標課程在選課系統搜尋時的排序不為第一個時
 
 若目標課程在選課系統搜尋時的排序為第二時，將第101行程式碼替換為
+
 job1 = scheduler.add_job(function1, 'interval', minutes=1, args=[uid,pwd,class_name_1, "check2"])
+
 若目標課程在選課系統搜尋時的排序為第三時，將第101行程式碼替換為
+
 job1 = scheduler.add_job(function1, 'interval', minutes=1, args=[uid,pwd,class_name_1, "check3"])
+
 以此類推
 
 步驟四(如有需要)：若左下角的debug標示驚嘆號，點擊後出現"import selenium could not be resolved..."
