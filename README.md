@@ -69,3 +69,5 @@ job1 = scheduler.add_job(function1, 'interval', minutes=1, args=[uid,pwd,class_n
 Terminal會顯示執行時間與次數
 額滿時顯示額滿並持續執行，選課成功時顯示選課成功並停止執行
 若要手動停止，按下垃圾桶按鍵或直接關閉VS Code
+
+有任何問題歡迎善用issues功能發問，或來信b09610041@ntu.edu.tw
