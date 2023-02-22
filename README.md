@@ -9,17 +9,17 @@ Copyright (c) 2023
 #事前準備
 
 步驟一：下載python
-Python官網：https://www.python.org/downloads/
+(Python官網：https://www.python.org/downloads/)
 
 參考教學：https://www.codingspace.school/blog/2021-04-07
 
 步驟二：下載VS code
-VS Code官網：https://code.visualstudio.com/
+(VS Code官網：https://code.visualstudio.com/)
 
 參考教學：https://www.citerp.com.tw/citwp2/2021/12/22/vs-code_python_01/
 
 步驟三：下載ChromeDriver
-ChromeDriver官網：https://chromedriver.chromium.org/downloads
+(ChromeDriver官網：https://chromedriver.chromium.org/downloads)
 
 參考教學：https://ithelp.ithome.com.tw/m/articles/10261845
 (但不要執行「4.將chromedriver.exe放到跟python.exe一樣的目錄下」這個動作)
