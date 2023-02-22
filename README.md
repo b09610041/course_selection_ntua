@@ -11,27 +11,27 @@ Copyright (c) 2023
 步驟一：下載python
 Python官網：https://www.python.org/downloads/
 
-參考教學：https://www.codingspace.school/blog/2021-04-07
+  參考教學：https://www.codingspace.school/blog/2021-04-07
 
 步驟二：下載VS code
 VS Code官網：https://code.visualstudio.com/
 
-參考教學：https://www.citerp.com.tw/citwp2/2021/12/22/vs-code_python_01/
+  參考教學：https://www.citerp.com.tw/citwp2/2021/12/22/vs-code_python_01/
 
 步驟三：下載ChromeDriver
 ChromeDriver官網：https://chromedriver.chromium.org/downloads
 
-參考教學：https://ithelp.ithome.com.tw/m/articles/10261845
+  參考教學：https://ithelp.ithome.com.tw/m/articles/10261845
 (但不要執行「4.將chromedriver.exe放到跟python.exe一樣的目錄下」這個動作)
 
 步驟四：將chomedriver.exe與主程式碼course_selection_ntua.py放到同一個資料夾，並命名為py
 
 步驟五：打開終端機
 
-Windows:按一下開始 ，在搜尋欄位中輸入「終端機」，然後按一下「終端機」。
-Mac:按一下 Dock 中的「啟動台」圖像 ，在搜尋欄位中輸入「終端機」，然後按一下「終端機」。
+  Windows:按一下開始 ，在搜尋欄位中輸入「終端機」，然後按一下「終端機」。
+  Mac:按一下 Dock 中的「啟動台」圖像 ，在搜尋欄位中輸入「終端機」，然後按一下「終端機」。
 
-開啟後輸入
+  開啟後輸入
 pip install selenium
 pip install APSchedular
 
