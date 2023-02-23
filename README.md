@@ -27,7 +27,9 @@ Copyright (c) 2023
 步驟四：下載github程式碼
 (https://github.com/b09610041/course_selection_ntua)
 
-並將chomedriver.exe與放到資料夾course_selection_ntua-main
+點選Code - Download Zip -解壓縮
+
+並將步驟三所下載的chomedriver.exe放到解壓所後的資料夾course_selection_ntua-main
 
 步驟五：打開終端機
 
