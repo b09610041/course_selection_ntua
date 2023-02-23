@@ -24,7 +24,10 @@ Copyright (c) 2023
 參考教學：https://ithelp.ithome.com.tw/m/articles/10261845
 (但不要執行「4.將chromedriver.exe放到跟python.exe一樣的目錄下」這個動作)
 
-步驟四：將chomedriver.exe與主程式碼course_selection_ntua.py放到同一個資料夾，並命名為py
+步驟四：下載github程式碼
+(https://github.com/b09610041/course_selection_ntua)
+
+並將將chomedriver.exe與放到資料夾course_selection_ntua-main
 
 步驟五：打開終端機
 
