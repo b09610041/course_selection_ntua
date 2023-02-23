@@ -38,9 +38,10 @@ Windows:按一下開始 ，在搜尋欄位中輸入「終端機」，然後按�
 Mac:按一下 Dock 中的「啟動台」圖像 ，在搜尋欄位中輸入「終端機」，然後按一下「終端機」。
 
 開啟後輸入
-pip install selenium
-pip install APSchedular
 
+pip install selenium
+
+pip install APSchedular
 
 #程式執行
 
