@@ -13,13 +13,10 @@ Copyright (c) 2023
 
 參考教學：https://www.codingspace.school/blog/2021-04-07
 
-.
-
 步驟二：下載VS code
 (VS Code官網：https://code.visualstudio.com/)
 
 參考教學：https://www.citerp.com.tw/citwp2/2021/12/22/vs-code_python_01/
-
 
 步驟三：下載ChromeDriver
 (ChromeDriver官網：https://chromedriver.chromium.org/downloads)
@@ -27,14 +24,12 @@ Copyright (c) 2023
 參考教學：https://ithelp.ithome.com.tw/m/articles/10261845
 (但不要執行「4.將chromedriver.exe放到跟python.exe一樣的目錄下」這個動作)
 
-
 步驟四：下載github程式碼
 (https://github.com/b09610041/course_selection_ntua)
 
 點選Code - Download Zip -解壓縮
 
 並將步驟三所下載的chomedriver.exe放到解壓所後的資料夾course_selection_ntua-main
-
 
 步驟五：打開終端機
 
@@ -53,7 +48,6 @@ pip install APSchedular
 
 點選左上角file - open folder - 選取資料夾py
 
-
 步驟二：依照指示輸入課程名稱與帳號密碼
 
 例：
@@ -63,7 +57,6 @@ class_name_1 = "大學幸福課"
 uid = "10110101"
 
 pwd = "ji32k7au4a83"
-
 
 步驟三(如有需要)：若該課程有多個時段，且目標課程在選課系統搜尋時的排序不為第一個時
 
@@ -77,11 +70,9 @@ job1 = scheduler.add_job(function1, 'interval', minutes=1, args=[uid,pwd,class_n
 
 以此類推
 
-
 步驟四(如有需要)：若左下角的debug標示驚嘆號，點擊後出現"import selenium could not be resolved..."
 
 點選View - Command Palette - 輸入python interpreter - 點選Python: Select interpreter - 點選recommended的選項
-
 
 步驟五：按下右上角的三角形按鍵開始
 
