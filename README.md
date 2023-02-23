@@ -1,4 +1,4 @@
-# course_selection_ntua
+# 給台藝大學生的自動選課教學
 
 Written by NTU_B09610041
 Copyright (c) 2023 
