@@ -29,7 +29,7 @@ def function1(user_id, user_password, class_name, check="check1"):
     print(f"執行時間：{d}日{h}時{m}分")      
          
     #webdriver路徑
-    driver = webdriver.Chrome("\chromedriver.exe")
+    driver = webdriver.Chrome("chromedriver.exe")
     
     #載入台藝大選課系統
     driver.get("https://uaap.ntua.edu.tw/ntua/")
