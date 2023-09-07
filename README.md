@@ -29,6 +29,8 @@ Copyright (c) 2023
 
 點進網頁找到自己的版本後複製URL並開啟就會自動下載
 
+(不一定要串數字都一樣也可以work)
+
 參考教學：https://ithelp.ithome.com.tw/m/articles/10261845
 (但不要執行「4.將chromedriver.exe放到跟python.exe一樣的目錄下」這個動作)
 
