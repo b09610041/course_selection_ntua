@@ -20,9 +20,13 @@ Copyright (c) 2023
 
 步驟三：下載ChromeDriver
 (ChromeDriver官網：https://chromedriver.chromium.org/downloads)
+
 #2023/9/8更新
+
 目前官網只提供到114.0.5735.90版本的ChromeDriver
+
 114以後的版本在https://googlechromelabs.github.io/chrome-for-testing/
+
 點進網頁找到自己的版本後複製URL並開啟就會自動下載
 
 參考教學：https://ithelp.ithome.com.tw/m/articles/10261845
