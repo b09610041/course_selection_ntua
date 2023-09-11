@@ -3,14 +3,13 @@
 Written by NTU_B09610041
 Copyright (c) 2023 
 
-#2023/9/11更新
+### 2023/9/11更新；新增"選課搜尋測試.py"用於除錯
 
-新增"選課搜尋測試.py"用於除錯
 
 此教學分為#事前準備與#程式執行兩部分。
 因需要長時間開啟電腦，建議使用桌機。
 
-#事前準備
+## 事前準備
 
 步驟一：下載python
 (Python官網：https://www.python.org/downloads/)
@@ -25,7 +24,7 @@ Copyright (c) 2023
 步驟三：下載ChromeDriver
 (ChromeDriver官網：https://chromedriver.chromium.org/downloads)
 
-#2023/9/8更新
+### 2023/9/8更新
 
 目前官網只提供到114.0.5735.90版本的ChromeDriver
 
@@ -57,7 +56,7 @@ pip install selenium
 
 pip install APSchedular
 
-#程式執行
+## 程式執行
 
 步驟一：開啟VS Code
 
